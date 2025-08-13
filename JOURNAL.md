@@ -3,7 +3,7 @@ title: "Build a Bird Army"
 author: "Neya"
 description: "Collect birds to defend yourself against enemies!"
 created at: "2025-08-13"
-time spent overall: "3h"
+time spent overall: "3h 30m"
 ---
 
 # August 12: Character art
@@ -25,3 +25,8 @@ I started making a tilemap with grass, rocks, and a path.
 <img width="873" height="647" alt="Screenshot 2025-08-12 at 9 27 05 PM" src="https://github.com/user-attachments/assets/cfad6df4-d0e4-4eda-a4e8-c83453072c83" />
 
 **Total time spent: 1h**
+
+# August 13: Finished Tilemap
+Today I added the lighter colored grass and the bush and rocks.
+<img width="1320" height="988" alt="Screenshot 2025-08-13 at 10 13 07 AM" src="https://github.com/user-attachments/assets/2f26fabd-09fa-4c0d-9709-3a06e2b42011" />
+**Total time spent: 30m**
