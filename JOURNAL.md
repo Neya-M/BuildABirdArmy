@@ -3,7 +3,7 @@ title: "Build a Bird Army"
 author: "Neya"
 description: "Collect birds to defend yourself against enemies!"
 created at: "2025-08-13"
-time spent overall: "9h"
+time spent overall: "10h"
 ---
 
 # August 12: Character art
