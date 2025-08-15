@@ -55,3 +55,9 @@ I used a grid container to show the cards in the deck (birbs you can collect) an
 
 **Total time spent: 1.5h**
 
+# August 15: Cards
+I added randomized cards to the Deck viewer for now, and you can expand them to see the name and stats.
+
+https://github.com/user-attachments/assets/df9ff47a-b2f3-45af-ac65-22cd2fe64067
+
+**Total time spent: 1h**
