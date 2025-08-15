@@ -3,7 +3,7 @@ title: "Build a Bird Army"
 author: "Neya"
 description: "Collect birds to defend yourself against enemies!"
 created at: "2025-08-13"
-time spent overall: "7h 30m"
+time spent overall: "9h"
 ---
 
 # August 12: Character art
@@ -43,8 +43,15 @@ I spent a long time making birbs and they're soo cuteeeee!!!!
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/442a819b-b199-427e-b5e9-fa87f850b6c4" />
 <img width="100" height="100" alt="Screenshot 2025-08-14 at 10 46 52 AM" src="https://github.com/user-attachments/assets/ae4d62b8-3cdc-4954-ba7e-9b8b8838bec1" />
-<img width="717" height="720" alt="image" src="https://github.com/user-attachments/assets/369ff308-e8e4-4598-83bf-6dc087142da8" />
-<img width="717" height="720" alt="image" src="https://github.com/user-attachments/assets/ac9d333b-e7a1-4a59-b4d4-5f8554dbfef8" />
-<img width="720" height="715" alt="image" src="https://github.com/user-attachments/assets/1d6776a6-a639-4887-8e40-f94d414f35d5" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/369ff308-e8e4-4598-83bf-6dc087142da8" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ac9d333b-e7a1-4a59-b4d4-5f8554dbfef8" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1d6776a6-a639-4887-8e40-f94d414f35d5" />
 
 **Total time spent: 3h**
+
+# August 14-15: Deck viewer!
+I used a grid container to show the cards in the deck (birbs you can collect) and after a while of coding it worked!
+<img width="1654" height="914" alt="image" src="https://github.com/user-attachments/assets/5db3f989-82a1-4127-bff4-d33f2c73c64f" />
+
+**Total time spent: 1.5h**
+
